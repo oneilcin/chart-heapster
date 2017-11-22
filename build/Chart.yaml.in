@@ -1,7 +1,9 @@
 name: heapster
 description: Standalone chart for heapster metrics aggregator for autoscaling
 version: ${CHART_VER}-${CHART_REL}
-home: https://github.com/samsung-cnct/charts-heapster
+home: https://github.com/samsung-cnct/chart-heapster
+sources:
+- https://github.com/samsung-cnct/chart-heapster
 keywords:
 - heapster
 maintainers:
